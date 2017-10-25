@@ -1,0 +1,25 @@
+{
+  "name": "petAnimals",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.0.14",
+    "redux-actions": "^2.2.1",
+    "redux-devtools": "^3.4.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^3.0.2",
+    "react-router-redux": "^4.0.8",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

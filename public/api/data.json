@@ -1,0 +1,523 @@
+[
+  {
+    "cat_id": "1",
+    "breed_name": "Russian Blue",
+    "country": "Russia",
+    "image": "/images/russian_blue/1.jpg",
+    "coat": "Short",
+    "pattern": "Solid",
+    "categories": [
+      {
+        "sub_cat_id": "1",
+        "name": "Senor Poopypants",
+        "image": "/images/russian_blue/1.jpg",
+        "properties": {
+          "age": "2 years old",
+          "color": "silver-blue"
+        },
+        "description": "The Russian Blue is a robust breed, with firm muscles and an overall dose of good looks. It is physically in the same class as the Korat and Oriental",
+        "price": "1500",
+        "likes": "1000"
+      },
+      {
+        "sub_cat_id": "2",
+        "name": "Daisy",
+        "image": "/images/russian_blue/2.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "silver-blue"
+        },
+        "description": "The Russian Blue is a robust breed, with firm muscles and an overall dose of good looks. It is physically in the same class as the Korat and Oriental",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "3",
+        "name": "Lucy",
+        "image": "/images/russian_blue/3.jpg",
+        "properties": {
+          "age": "10 months",
+          "color": "silver-gray"
+        },
+        "description": "The Russian Blue is a robust breed, with firm muscles and an overall dose of good looks. It is physically in the same class as the Korat and Oriental",
+        "price": "500",
+        "likes": "12"
+      },
+      {
+        "sub_cat_id": "4",
+        "name": "Sophie",
+        "image": "/images/russian_blue/4.jpg",
+        "properties": {
+          "age": "3 years",
+          "color": "silver-gray"
+        },
+        "description": "The Russian Blue is a robust breed, with firm muscles and an overall dose of good looks. It is physically in the same class as the Korat and Oriental",
+        "price": "3000",
+        "likes": "1200"
+      },
+      {
+        "sub_cat_id": "5",
+        "name": "Sasha",
+        "image": "/images/russian_blue/5.jpg",
+        "properties": {
+          "age": "2.5 years",
+          "color": "silver-blue"
+        },
+        "description": "The Russian Blue is a robust breed, with firm muscles and an overall dose of good looks. It is physically in the same class as the Korat and Oriental",
+        "price": "3000",
+        "likes": "1200"
+      },
+      {
+        "sub_cat_id": "6",
+        "name": "Riley",
+        "image": "/images/russian_blue/6.jpg",
+        "properties": {
+          "age": "2 years",
+          "color": "silver-blue"
+        },
+        "description": "The Russian Blue is a robust breed, with firm muscles and an overall dose of good looks. It is physically in the same class as the Korat and Oriental",
+        "price": "5656",
+        "likes": "243"
+      },
+      {
+        "sub_cat_id": "7",
+        "name": "Sky winston church hill",
+        "image": "/images/russian_blue/7.jpg",
+        "properties": {
+          "age": "1.5 years",
+          "color": "silver-blue"
+        },
+        "description": "The Russian Blue is a robust breed, with firm muscles and an overall dose of good looks. It is physically in the same class as the Korat and Oriental",
+        "price": "2322",
+        "likes": "565"
+      },
+      {
+        "sub_cat_id": "8",
+        "name": "Shana",
+        "image": "/images/russian_blue/8.jpg",
+        "properties": {
+          "age": "1 year",
+          "color": "Thick-gray"
+        },
+        "description": "The Russian Blue is a robust breed, with firm muscles and an overall dose of good looks. It is physically in the same class as the Korat and Oriental",
+        "price": "3433",
+        "likes": "120"
+      },
+      {
+        "sub_cat_id": "9",
+        "name": "Smokey",
+        "image": "/images/russian_blue/9.jpg",
+        "properties": {
+          "age": "3 years",
+          "color": "silver-blue"
+        },
+        "description": "The Russian Blue is a robust breed, with firm muscles and an overall dose of good looks. It is physically in the same class as the Korat and Oriental",
+        "price": "3000",
+        "likes": "1200"
+      },
+      {
+        "sub_cat_id": "10",
+        "name": "Molotov",
+        "image": "/images/russian_blue/10.jpg",
+        "properties": {
+          "age": "3 years",
+          "color": "silver-blue"
+        },
+        "description": "The Russian Blue is a robust breed, with firm muscles and an overall dose of good looks. It is physically in the same class as the Korat and Oriental",
+        "price": "3000",
+        "likes": "1200"
+      }
+    ]
+  },
+  {
+    "cat_id": "2",
+    "breed_name": "Exotic Shorthair",
+    "image": "/images/exotic_shorthair/1.jpg",
+    "description": "A breed with only 50 years of history, the Exotic Shorthair, also known as the Shorthaired Persian, is a popular breed for cat fanciers who walk on the calmer side of life. This breed has its playful side, but it prefers to cuddle and relax for most of the day. Perfect for urban homes, or for country living, the Exotic is plush and beautiful to look at, with the added benefit of being one of the more affectionate breeds. A Persian without pretension, the Exotic is also easy to care for, with a minimal shedding but still luxurious coat.",
+    "country": "United States",
+    "coat": "Short",
+    "pattern": "All",
+    "categories": [
+      {
+        "sub_cat_id": "1",
+        "name": "Skittles",
+        "image": "/images/exotic_shorthair/1.jpg",
+        "properties": {
+          "age": "2 years old",
+          "color": "Silver-white"
+        },
+        "description": "The Exotic Shorthair can be succinctly described as being a short-haired Persian, since for all intents, it meets every standard for the Persian breed, except for the coat. Where the Persian has a long thick coat that requires daily combing for prevention of mats and tangles, the Exotic has a medium length coat that is dense and plush, with a thick undercoat.",
+        "price": "1500",
+        "likes": "1000"
+      },
+      {
+        "sub_cat_id": "2",
+        "name": "Ozzy",
+        "image": "/images/exotic_shorthair/2.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Light-gray"
+        },
+        "description": "The Exotic Shorthair can be succinctly described as being a short-haired Persian, since for all intents, it meets every standard for the Persian breed, except for the coat. Where the Persian has a long thick coat that requires daily combing for prevention of mats and tangles, the Exotic has a medium length coat that is dense and plush, with a thick undercoat.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "3",
+        "name": "Neko",
+        "image": "/images/exotic_shorthair/3.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Light-gray"
+        },
+        "description": "The Exotic Shorthair can be succinctly described as being a short-haired Persian, since for all intents, it meets every standard for the Persian breed, except for the coat. Where the Persian has a long thick coat that requires daily combing for prevention of mats and tangles, the Exotic has a medium length coat that is dense and plush, with a thick undercoat.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "4",
+        "name": "Gizmo",
+        "image": "/images/exotic_shorthair/4.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Black-white"
+        },
+        "description": "The Exotic Shorthair can be succinctly described as being a short-haired Persian, since for all intents, it meets every standard for the Persian breed, except for the coat. Where the Persian has a long thick coat that requires daily combing for prevention of mats and tangles, the Exotic has a medium length coat that is dense and plush, with a thick undercoat.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "5",
+        "name": "Lola",
+        "image": "/images/exotic_shorthair/5.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Black-white"
+        },
+        "description": "The Exotic Shorthair can be succinctly described as being a short-haired Persian, since for all intents, it meets every standard for the Persian breed, except for the coat. Where the Persian has a long thick coat that requires daily combing for prevention of mats and tangles, the Exotic has a medium length coat that is dense and plush, with a thick undercoat.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "6",
+        "name": "Fiona",
+        "image": "/images/exotic_shorthair/6.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "White"
+        },
+        "description": "The Exotic Shorthair can be succinctly described as being a short-haired Persian, since for all intents, it meets every standard for the Persian breed, except for the coat. Where the Persian has a long thick coat that requires daily combing for prevention of mats and tangles, the Exotic has a medium length coat that is dense and plush, with a thick undercoat.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "7",
+        "name": "Bear",
+        "image": "/images/exotic_shorthair/7.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "White"
+        },
+        "description": "The Exotic Shorthair can be succinctly described as being a short-haired Persian, since for all intents, it meets every standard for the Persian breed, except for the coat. Where the Persian has a long thick coat that requires daily combing for prevention of mats and tangles, the Exotic has a medium length coat that is dense and plush, with a thick undercoat.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "8",
+        "name": "Fig",
+        "image": "/images/exotic_shorthair/8.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Light-gray"
+        },
+        "description": "The Exotic Shorthair can be succinctly described as being a short-haired Persian, since for all intents, it meets every standard for the Persian breed, except for the coat. Where the Persian has a long thick coat that requires daily combing for prevention of mats and tangles, the Exotic has a medium length coat that is dense and plush, with a thick undercoat.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "9",
+        "name": "King Louie",
+        "image": "/images/exotic_shorthair/9.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Gray-white"
+        },
+        "description": "The Exotic Shorthair can be succinctly described as being a short-haired Persian, since for all intents, it meets every standard for the Persian breed, except for the coat. Where the Persian has a long thick coat that requires daily combing for prevention of mats and tangles, the Exotic has a medium length coat that is dense and plush, with a thick undercoat.",
+        "price": "1000",
+        "likes": "456"
+      }
+    ]
+  },
+  {
+    "cat_id": "3",
+    "breed_name": "Turkish Angora",
+    "image": "/images/turkish_angora/1.jpg",
+    "description": "The Turkish Angora is a naturally occurring breed from the 'old country', with traces of its line going back several millennia. Medium in size with a long, svelte, well-balanced body, it is the very picture of grace. Long is the adjective that best typifies this cat breed. The Angora has a long body, long, slim legs, long tail, long coat, large ears and wide eyes. It is a dainty cat, with fine bones, a slim chest, and a super soft coat that belies its hardiness.",
+    "country": "United States",
+    "coat": "Short",
+    "pattern": "All",
+    "categories": [
+      {
+        "sub_cat_id": "1",
+        "name": "Snow",
+        "image": "/images/turkish_angora/1.jpg",
+        "properties": {
+          "age": "2 years old",
+          "color": "White"
+        },
+        "description": "The Turkish Angora is a naturally occurring breed from the \"old country,\" with traces of its line going back several millennia. Medium in size with a long, svelte, well-balanced body, it is the very picture of grace. Long is the adjective that best typifies this cat breed. The Angora has a long body, long, slim legs, long tail, long coat, large ears and wide eyes. It is a dainty cat, with fine bones, a slim chest, and a super soft coat that belies its hardiness. It is renowned most for its gorgeous, long, silky coat which seems to shimmer when it moves. The coat is single layered only, which makes the Angora a breeze to groom. The length of the coat is dictated by season. The hair thins out in the warm months, when the Angora takes on more of a shorthair appearance, and in the cold months the coat grows in thicker and longer, the britches and mane fluff up fully, and the tail becomes more posh.",
+        "price": "1500",
+        "likes": "1000"
+      },
+      {
+        "sub_cat_id": "2",
+        "name": "Diego",
+        "image": "/images/turkish_angora/2.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "White"
+        },
+        "price": "1000",
+        "description": "The Turkish Angora is a naturally occurring breed from the \"old country,\" with traces of its line going back several millennia. Medium in size with a long, svelte, well-balanced body, it is the very picture of grace. Long is the adjective that best typifies this cat breed. The Angora has a long body, long, slim legs, long tail, long coat, large ears and wide eyes. It is a dainty cat, with fine bones, a slim chest, and a super soft coat that belies its hardiness. It is renowned most for its gorgeous, long, silky coat which seems to shimmer when it moves. The coat is single layered only, which makes the Angora a breeze to groom. The length of the coat is dictated by season. The hair thins out in the warm months, when the Angora takes on more of a shorthair appearance, and in the cold months the coat grows in thicker and longer, the britches and mane fluff up fully, and the tail becomes more posh.",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "3",
+        "name": "Onyx",
+        "image": "/images/turkish_angora/3.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "White"
+        },
+        "price": "1000",
+        "description": "The Turkish Angora is a naturally occurring breed from the \"old country,\" with traces of its line going back several millennia. Medium in size with a long, svelte, well-balanced body, it is the very picture of grace. Long is the adjective that best typifies this cat breed. The Angora has a long body, long, slim legs, long tail, long coat, large ears and wide eyes. It is a dainty cat, with fine bones, a slim chest, and a super soft coat that belies its hardiness. It is renowned most for its gorgeous, long, silky coat which seems to shimmer when it moves. The coat is single layered only, which makes the Angora a breeze to groom. The length of the coat is dictated by season. The hair thins out in the warm months, when the Angora takes on more of a shorthair appearance, and in the cold months the coat grows in thicker and longer, the britches and mane fluff up fully, and the tail becomes more posh.",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "4",
+        "name": "Onyx",
+        "image": "/images/turkish_angora/4.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "White"
+        },
+        "price": "1000",
+        "description": "The Turkish Angora is a naturally occurring breed from the \"old country,\" with traces of its line going back several millennia. Medium in size with a long, svelte, well-balanced body, it is the very picture of grace. Long is the adjective that best typifies this cat breed. The Angora has a long body, long, slim legs, long tail, long coat, large ears and wide eyes. It is a dainty cat, with fine bones, a slim chest, and a super soft coat that belies its hardiness. It is renowned most for its gorgeous, long, silky coat which seems to shimmer when it moves. The coat is single layered only, which makes the Angora a breeze to groom. The length of the coat is dictated by season. The hair thins out in the warm months, when the Angora takes on more of a shorthair appearance, and in the cold months the coat grows in thicker and longer, the britches and mane fluff up fully, and the tail becomes more posh.",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "5",
+        "name": "Thumbelina",
+        "image": "/images/turkish_angora/5.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Black"
+        },
+        "price": "1000",
+        "description": "The Turkish Angora is a naturally occurring breed from the \"old country,\" with traces of its line going back several millennia. Medium in size with a long, svelte, well-balanced body, it is the very picture of grace. Long is the adjective that best typifies this cat breed. The Angora has a long body, long, slim legs, long tail, long coat, large ears and wide eyes. It is a dainty cat, with fine bones, a slim chest, and a super soft coat that belies its hardiness. It is renowned most for its gorgeous, long, silky coat which seems to shimmer when it moves. The coat is single layered only, which makes the Angora a breeze to groom. The length of the coat is dictated by season. The hair thins out in the warm months, when the Angora takes on more of a shorthair appearance, and in the cold months the coat grows in thicker and longer, the britches and mane fluff up fully, and the tail becomes more posh.",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "6",
+        "name": "Olive",
+        "image": "/images/turkish_angora/6.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "White"
+        },
+        "price": "1000",
+        "description": "The Turkish Angora is a naturally occurring breed from the \"old country,\" with traces of its line going back several millennia. Medium in size with a long, svelte, well-balanced body, it is the very picture of grace. Long is the adjective that best typifies this cat breed. The Angora has a long body, long, slim legs, long tail, long coat, large ears and wide eyes. It is a dainty cat, with fine bones, a slim chest, and a super soft coat that belies its hardiness. It is renowned most for its gorgeous, long, silky coat which seems to shimmer when it moves. The coat is single layered only, which makes the Angora a breeze to groom. The length of the coat is dictated by season. The hair thins out in the warm months, when the Angora takes on more of a shorthair appearance, and in the cold months the coat grows in thicker and longer, the britches and mane fluff up fully, and the tail becomes more posh.",
+        "likes": "456"
+      }
+    ]
+  },
+  {
+    "cat_id": "4",
+    "breed_name": "Chantilly (or Tiffany)",
+    "image": "/images/tiffany/1.jpg",
+    "description": "As any chocolate lover will tell you, 'a chocolate bar is better than a gold bar,' so will a devotee of the Tiffany tell you, 'a chocolate Tiffany is better than...well, any other cat.' The original chocolate brown color of the Tiffany is still the most popular, and leads many to describe their great love for their chocolate coated cats with terms reserved for the edible treat.",
+    "country": "United States",
+    "coat": "Short/Long",
+    "pattern": "Spotted",
+    "categories": [
+      {
+        "sub_cat_id": "1",
+        "name": "Winslow - AKA - 'Meow Meow Jr.'",
+        "image": "/images/tiffany/1.jpg",
+        "properties": {
+          "age": "2 years old",
+          "color": "Thich-gray"
+        },
+        "description": "As any chocolate lover will tell you, \"a chocolate bar is better than a gold bar,\" so will a devotee of the Tiffany tell you, \"a chocolate Tiffany is better than...well, any other cat.\" The original chocolate brown color of the Tiffany is still the most popular, and leads many to describe their great love for their chocolate coated cats with terms reserved for the edible treat. Since Tiffany breeders began to focus on the vigor of the breed by outcrossing, the Tiffany has developed a more varied color pallet, including black, blue, cinnamon, fawn and lilac. It has also developed various patterns of coats, with agouti/ticked, mackerel and other tabby patterns being some of the born traits. The coat is described as semi-long.",
+        "price": "1500",
+        "likes": "1000"
+      },
+      {
+        "sub_cat_id": "2",
+        "name": "Baxter",
+        "image": "/images/tiffany/2.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Thich-gray"
+        },
+        "description": "As any chocolate lover will tell you, \"a chocolate bar is better than a gold bar,\" so will a devotee of the Tiffany tell you, \"a chocolate Tiffany is better than...well, any other cat.\" The original chocolate brown color of the Tiffany is still the most popular, and leads many to describe their great love for their chocolate coated cats with terms reserved for the edible treat. Since Tiffany breeders began to focus on the vigor of the breed by outcrossing, the Tiffany has developed a more varied color pallet, including black, blue, cinnamon, fawn and lilac. It has also developed various patterns of coats, with agouti/ticked, mackerel and other tabby patterns being some of the born traits. The coat is described as semi-long.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "3",
+        "name": "Layla",
+        "image": "/images/tiffany/3.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Black"
+        },
+        "description": "As any chocolate lover will tell you, \"a chocolate bar is better than a gold bar,\" so will a devotee of the Tiffany tell you, \"a chocolate Tiffany is better than...well, any other cat.\" The original chocolate brown color of the Tiffany is still the most popular, and leads many to describe their great love for their chocolate coated cats with terms reserved for the edible treat. Since Tiffany breeders began to focus on the vigor of the breed by outcrossing, the Tiffany has developed a more varied color pallet, including black, blue, cinnamon, fawn and lilac. It has also developed various patterns of coats, with agouti/ticked, mackerel and other tabby patterns being some of the born traits. The coat is described as semi-long.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "4",
+        "name": "BlackBerry",
+        "image": "/images/tiffany/4.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Thick-gray"
+        },
+        "description": "As any chocolate lover will tell you, \"a chocolate bar is better than a gold bar,\" so will a devotee of the Tiffany tell you, \"a chocolate Tiffany is better than...well, any other cat.\" The original chocolate brown color of the Tiffany is still the most popular, and leads many to describe their great love for their chocolate coated cats with terms reserved for the edible treat. Since Tiffany breeders began to focus on the vigor of the breed by outcrossing, the Tiffany has developed a more varied color pallet, including black, blue, cinnamon, fawn and lilac. It has also developed various patterns of coats, with agouti/ticked, mackerel and other tabby patterns being some of the born traits. The coat is described as semi-long.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "5",
+        "name": "Kiki",
+        "image": "/images/tiffany/5.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Black"
+        },
+        "description": "As any chocolate lover will tell you, \"a chocolate bar is better than a gold bar,\" so will a devotee of the Tiffany tell you, \"a chocolate Tiffany is better than...well, any other cat.\" The original chocolate brown color of the Tiffany is still the most popular, and leads many to describe their great love for their chocolate coated cats with terms reserved for the edible treat. Since Tiffany breeders began to focus on the vigor of the breed by outcrossing, the Tiffany has developed a more varied color pallet, including black, blue, cinnamon, fawn and lilac. It has also developed various patterns of coats, with agouti/ticked, mackerel and other tabby patterns being some of the born traits. The coat is described as semi-long.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "6",
+        "name": "Coco",
+        "image": "/images/tiffany/6.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Silver"
+        },
+        "description": "As any chocolate lover will tell you, \"a chocolate bar is better than a gold bar,\" so will a devotee of the Tiffany tell you, \"a chocolate Tiffany is better than...well, any other cat.\" The original chocolate brown color of the Tiffany is still the most popular, and leads many to describe their great love for their chocolate coated cats with terms reserved for the edible treat. Since Tiffany breeders began to focus on the vigor of the breed by outcrossing, the Tiffany has developed a more varied color pallet, including black, blue, cinnamon, fawn and lilac. It has also developed various patterns of coats, with agouti/ticked, mackerel and other tabby patterns being some of the born traits. The coat is described as semi-long.",
+        "price": "1000",
+        "likes": "456"
+      }
+    ]
+  },
+  {
+    "cat_id": "5",
+    "breed_name": "American Curl",
+    "image": "/images/american_curl/1.jpg",
+    "description": "This cat generally has a well-proportioned and slender build. Its coat is soft, silky, and light, with no undercoat. Because of outcrossing -- introducing unrelated genetic material into a breeding line -- with other breeds, the Curl can be found in many colors, and in both long- and short-haired varieties. Its ears are moderately large with a wide and open base; they are also curled at the end (tip). Ideally, the ears should not curl back so far that they would touch the skull. But should, instead, curl back and toward each other at about 90 degrees, shaped similar to a crescent moon.",
+    "country": "United States",
+    "coat": "Short/Long",
+    "pattern": "All",
+    "categories": [
+      {
+        "sub_cat_id": "1",
+        "name": "lilly",
+        "image": "/images/american_curl/1.jpg",
+        "properties": {
+          "age": "2 years old",
+          "color": "Silver-white"
+        },
+        "description": "This cat generally has a well-proportioned and slender build. Its coat is soft, silky, and light, with no undercoat. Because of outcrossing -- introducing unrelated genetic material into a breeding line -- with other breeds, the Curl can be found in many colors, and in both long- and short-haired varieties. Its ears are moderately large with a wide and open base; they are also curled at the end (tip). Ideally, the ears should not curl back so far that they would touch the skull. But should, instead, curl back and toward each other at about 90 degrees, shaped similar to a crescent moon.",
+        "price": "1500",
+        "likes": "1000"
+      },
+      {
+        "sub_cat_id": "2",
+        "name": "Ryan",
+        "image": "/images/american_curl/2.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Silver-white"
+        },
+        "description": "This cat generally has a well-proportioned and slender build. Its coat is soft, silky, and light, with no undercoat. Because of outcrossing -- introducing unrelated genetic material into a breeding line -- with other breeds, the Curl can be found in many colors, and in both long- and short-haired varieties. Its ears are moderately large with a wide and open base; they are also curled at the end (tip). Ideally, the ears should not curl back so far that they would touch the skull. But should, instead, curl back and toward each other at about 90 degrees, shaped similar to a crescent moon.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "3",
+        "name": "Felix",
+        "image": "/images/american_curl/3.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Silver-white"
+        },
+        "description": "This cat generally has a well-proportioned and slender build. Its coat is soft, silky, and light, with no undercoat. Because of outcrossing -- introducing unrelated genetic material into a breeding line -- with other breeds, the Curl can be found in many colors, and in both long- and short-haired varieties. Its ears are moderately large with a wide and open base; they are also curled at the end (tip). Ideally, the ears should not curl back so far that they would touch the skull. But should, instead, curl back and toward each other at about 90 degrees, shaped similar to a crescent moon.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "4",
+        "name": "Pilli",
+        "image": "/images/american_curl/4.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Silver-white"
+        },
+        "description": "This cat generally has a well-proportioned and slender build. Its coat is soft, silky, and light, with no undercoat. Because of outcrossing -- introducing unrelated genetic material into a breeding line -- with other breeds, the Curl can be found in many colors, and in both long- and short-haired varieties. Its ears are moderately large with a wide and open base; they are also curled at the end (tip). Ideally, the ears should not curl back so far that they would touch the skull. But should, instead, curl back and toward each other at about 90 degrees, shaped similar to a crescent moon.",
+        "price": "1000",
+        "likes": "456"
+      }
+    ]
+  },
+  {
+    "cat_id": "6",
+    "breed_name": "Bengal House Cat",
+    "image": "/images/bengal/1.jpg",
+    "description": "The Bengal cat is a long, muscular, medium- to  large-sized  cat, with a broad head and muzzle, high cheekbones, and pronounced whisker pads. The eyes are round and wide, with dark markings around the eyes (mascara) and the ears small and rounded at the tips. The grace of a jungle cat is held as one of the positive characteristics, along with the ability to move quietly and with stealth. The back legs are slightly longer than the front legs, making the hind end a bit higher than the shoulders, and emphasizing the Bengal's wild-cat appearance. The Bengal's muscular, athletic build is one of its most defining features; it is never delicate.",
+    "country": "Asia",
+    "coat": "Short/Long/Medium",
+    "pattern": "Spotted/Marbled",
+    "categories": [
+      {
+        "sub_cat_id": "1",
+        "name": "Duma of Boutique Aristocrat",
+        "image": "/images/bengal/1.jpg",
+        "properties": {
+          "age": "2 years old",
+          "color": "Gray-white"
+        },
+        "description": "The Bengal cat is a long, muscular, medium- to  large-sized  cat, with a broad head and muzzle, high cheekbones, and pronounced whisker pads. The eyes are round and wide, with dark markings around the eyes (mascara) and the ears small and rounded at the tips.",
+        "price": "1500",
+        "likes": "1000"
+      },
+      {
+        "sub_cat_id": "2",
+        "name": "Tao",
+        "image": "/images/bengal/2.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "White"
+        },
+        "description": "The Bengal cat is a long, muscular, medium- to  large-sized  cat, with a broad head and muzzle, high cheekbones, and pronounced whisker pads. The eyes are round and wide, with dark markings around the eyes (mascara) and the ears small and rounded at the tips.",
+        "price": "1000",
+        "likes": "456"
+      },
+      {
+        "sub_cat_id": "3",
+        "name": "Arthur",
+        "image": "/images/bengal/3.jpg",
+        "properties": {
+          "age": "1 year old",
+          "color": "Silver-white"
+        },
+        "description": "The Bengal cat is a long, muscular, medium- to  large-sized  cat, with a broad head and muzzle, high cheekbones, and pronounced whisker pads. The eyes are round and wide, with dark markings around the eyes (mascara) and the ears small and rounded at the tips.",
+        "price": "1000",
+        "likes": "456"
+      }
+    ]
+  }
+]
