@@ -62,8 +62,8 @@ class Homepage extends Component {
           <div className="content-left xs-block">
             <h3 className="page-heading text-secondary">All Categories</h3>
           </div>
-          <div className="content-right xs-block">
-            <div className="input-block">
+          <div className="col-6 content-right xs-block">
+            <div className="input-block m-bottom-20">
               <div className="input-box">
                 <input onChange={this.onChangeVal.bind(this)} type="text" className="input-text" placeholder="Search by category name" />
               </div>

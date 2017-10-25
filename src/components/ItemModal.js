@@ -14,7 +14,9 @@ export const ItemModal = (props) => {
 				</div>
 				<div className="modal-body">
 					<div className="col-6 xs-block">
-						<img alt={props.modalData.name} src={props.modalData.image} width="100%" />
+						<div className="modal-img">
+							<img alt={props.modalData.name} src={props.modalData.image} />
+						</div>
 					</div>
 					<div className="col-6 xs-block">
 						<h3 className="text-primary text-md">{props.modalData.name}</h3>
