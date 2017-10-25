@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import { connect } from 'react-redux';
 import {sendData} from '../reducers/MainReducer';
 import {setCategoryData} from '../actions/MainActions';

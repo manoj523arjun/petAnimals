@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './css/appStyles.css';
+import './css/font-awesome.css';
 import App from './containers/App';
 import Homepage from './containers/Homepage';
 import CategoryPage from './containers/CategoryPage';
