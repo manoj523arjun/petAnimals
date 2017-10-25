@@ -338,6 +338,7 @@ sub {
 .modal-box {
 	position: absolute;
 	max-height: 350px;
+	overflow-y: scroll;
 	z-index: 999;
 	top:50%;
 	left:50%;
