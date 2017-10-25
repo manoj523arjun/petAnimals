@@ -24,7 +24,8 @@ class CategoryPage extends Component {
     this.state = {
       breedCategories:this.props.getcatItemData(),
       showModal:this.props.getModalShow(),
-      modalData:this.props.getModalData()
+      modalData:this.props.getModalData(),
+      loadingText:'Loading...'
     }
   }
   componentDidMount() {

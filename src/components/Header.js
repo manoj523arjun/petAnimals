@@ -8,9 +8,9 @@ export const Header = () => {
 			<div className="main-header">
 				<div className="app-container">
 					<div className="content-left">
-						<div className="app-logo text-secondary">
+						<Link to="/" className="app-logo text-secondary">
 							<span className="text-primary">mycat</span><sub>animals</sub>
-						</div>
+						</Link>
 					</div>
 					<div className="content-right">
 						<div className="menu-block">
