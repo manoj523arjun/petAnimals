@@ -41,7 +41,7 @@ export const CategoryBlock = (props) => {
 						</div>
 					</div>
 					<div className="content-right">
-						<button className="btn btn-primary text-white m-top-10">Add to Cart</button>
+						<button className="btn btn-primary text-white m-top-10">ADD TO CART</button>
 					</div>
 					<div className="app-clearfix"> </div>
 				</div>
