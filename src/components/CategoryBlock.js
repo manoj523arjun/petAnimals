@@ -32,16 +32,21 @@ export const CategoryBlock = (props) => {
 						<div className="display-tbl m-bottom-10">
 							<div className="display-cell text-xs">Age</div>
 							<div className="display-cell text-xs">:</div>
-							<div className="display-cell text-xs">2 Years Old</div>
+							<div className="display-cell text-xs">{data.properties.age}</div>
 						</div>
 						<div className="display-tbl m-bottom-10">
 							<div className="display-cell text-xs">Color</div>
 							<div className="display-cell text-xs">:</div>
-							<div className="display-cell text-xs">Black</div>
+							<div className="display-cell text-xs">{data.properties.color}</div>
+						</div>
+						<div className="display-tbl m-bottom-10">
+							<div className="display-cell text-xs">Price</div>
+							<div className="display-cell text-xs">:</div>
+							<div className="display-cell text-xs text-bold">{data.price}</div>
 						</div>
 					</div>
 					<div className="content-right">
-						<button className="btn btn-primary text-white m-top-10">ADD TO CART</button>
+						<button className="btn btn-primary text-white m-top-30">ADD TO CART</button>
 					</div>
 					<div className="app-clearfix"> </div>
 				</div>

@@ -31,6 +31,11 @@ export const ItemModal = (props) => {
 							<div className="display-cell text-xs">:</div>
 							<div className="display-cell text-xs">{props.modalData.properties.color}</div>
 						</div>
+						<div className="display-tbl m-bottom-10">
+							<div className="display-cell text-xs">Price</div>
+							<div className="display-cell text-xs">:</div>
+							<div className="display-cell text-xs text-bold">{props.modalData.price}</div>
+						</div>
 						<button className="btn btn-primary text-white m-top-10">ADD TO CART</button>
 					</div>
 				</div>

@@ -5,7 +5,7 @@ Instructions for dev :
 
 1) using git tool clone repository to local pc by using below command
 	" git clone https://github.com/manoj523arjun/petAnimals.git "
-	
+
 2) Run below command to install node packages
 
 	" npm install "
@@ -14,6 +14,7 @@ Instructions for dev :
 
 	" npm start "
 
+exit
 
 Instructions for Production :
 
